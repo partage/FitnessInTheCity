@@ -15,7 +15,7 @@
 
                 <h1>Fitness in the City</h1>
                 <nav>
-                    <ul id="Menu">
+                    <ul id="Accueil">
                         <li><a href="#">Accueil</a></li>
                         <li><a href="#">Nous Découvrir</a>
                             <ul>
