@@ -16,10 +16,10 @@
                 <h1>Fitness in the City</h1>
                 <nav>
                     <ul id="Menu">
-                        <li><a href="#">Accueil</a></li>
-                        <li><a href="#">Nous Découvrir</a>
+                        <li><a href="test">Accueil</a></li>
+                        <li><a href="test">Nous Découvrir</a>
                             <ul>
-                                <li><a href="#">Tarifs</a></li>
+                                <li><a href="test">Tarifs</a></li>
                                 <li><a href="#">Horaires</a></li>
                                 <li><a href="#">Contacts</a></li>
                             </ul>
