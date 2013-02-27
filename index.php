@@ -28,11 +28,11 @@
                             <ul>
                                 <li><a href="#">Musculation</a></li>
                                 <li><a href="#">Fitness</a></li>
-                                <li><a href="#">Danse</a></li>
+                                <li><a href="testtttttdtsdfqs">Danse</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Galerie</a></li>
-                        <li><a href="#">Evènements</a></li>
+                        <li><a href=",;,n;n;;,n;">Evènements</a></li>
                     </ul>
             </nav>
             </header>
