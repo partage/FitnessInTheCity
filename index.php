@@ -32,7 +32,7 @@
                             </ul>
                         </li>
                         <li><a href="eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee">Galerie</a></li>
-                        <li><a href="loooooool">Evènements</a></li>
+                        <li><a href="on est des noobs">Evènements</a></li>
                     </ul>
             </nav>
             </header>
