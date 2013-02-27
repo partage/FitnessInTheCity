@@ -11,7 +11,7 @@
             <header>
                 <div id = "titre_principal">
                 <img src="images/lp.jpg" alt="Fitness in the City" id="logo" />
-                                <div>
+                </div>
 
                 <h1>Fitness in the City</h1>
                 <nav>
@@ -28,11 +28,11 @@
                             <ul>
                                 <li><a href="#">Musculation</a></li>
                                 <li><a href="#">Fitness</a></li>
-                                <li><a href="testtttttdtsdfqs">Danse</a></li>
+                                <li><a href="#">Danse</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Galerie</a></li>
-                        <li><a href=",;,n;n;;,n;">Evènements</a></li>
+                        <li><a href="#">Evènements</a></li>
                     </ul>
             </nav>
             </header>
